@@ -1,1 +1,1 @@
-gitHub.com
+gitlab.com
